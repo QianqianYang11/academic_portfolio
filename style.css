@@ -336,7 +336,7 @@ nav ul li a:hover{
     padding: 15px; /* Padding for the description section */
     background-color: #f3e8d0; /* Background color for the description */
     border-radius: 0 0 30px 30px; /* Rounded corners at the bottom */
-    border: 8px solid#FFCC80;
+    border: 8px solid#823D32;
 }
 .work:hover .layer{
     height: auto;
