@@ -323,7 +323,7 @@ nav ul li a:hover{
 }
 .layer p {
     margin-bottom: 10px; /* Margin for description */
-    line-height: 1.5;
+    line-height: 1.25;
     font-size: 18px;
     text-align: justify;
 }
